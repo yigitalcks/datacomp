@@ -1,0 +1,151 @@
+Basvuru Yili
+Kardes Sayisi
+yas
+encoded_dogum_yeri
+encoded_universite_adi
+encoded_bolum
+Ikametgah Sehri_Adana
+Ikametgah Sehri_Adıyaman
+Ikametgah Sehri_Afyon
+Ikametgah Sehri_Aksaray
+Ikametgah Sehri_Amasya
+Ikametgah Sehri_Ankara
+Ikametgah Sehri_Antalya
+Ikametgah Sehri_Ardahan
+Ikametgah Sehri_Artvin
+Ikametgah Sehri_Aydın
+Ikametgah Sehri_Ağrı
+Ikametgah Sehri_Balıkesir
+Ikametgah Sehri_Bartın
+Ikametgah Sehri_Batman
+Ikametgah Sehri_Bayburt
+Ikametgah Sehri_Bilecik
+Ikametgah Sehri_Bingöl
+Ikametgah Sehri_Bitlis
+Ikametgah Sehri_Bolu
+Ikametgah Sehri_Burdur
+Ikametgah Sehri_Bursa
+Ikametgah Sehri_Denizli
+Ikametgah Sehri_Diyarbakır
+Ikametgah Sehri_DüzceKKTC
+Ikametgah Sehri_Edirne
+Ikametgah Sehri_Elazığ
+Ikametgah Sehri_Erzincan
+Ikametgah Sehri_Erzurum
+Ikametgah Sehri_Eskişehir
+Ikametgah Sehri_Gaziantep
+Ikametgah Sehri_Giresun
+Ikametgah Sehri_Gümüşhane
+Ikametgah Sehri_Hakkari
+Ikametgah Sehri_Hatay
+Ikametgah Sehri_Isparta
+Ikametgah Sehri_Iğdır
+Ikametgah Sehri_Kahramanmaraş
+Ikametgah Sehri_Karabük
+Ikametgah Sehri_Karaman
+Ikametgah Sehri_Kars
+Ikametgah Sehri_Kastamonu
+Ikametgah Sehri_Kayseri
+Ikametgah Sehri_Kilis
+Ikametgah Sehri_Kocaeli
+Ikametgah Sehri_Konya
+Ikametgah Sehri_Kütahya
+Ikametgah Sehri_Kırklareli
+Ikametgah Sehri_Kırıkkale
+Ikametgah Sehri_Kırşehir
+Ikametgah Sehri_Malatya
+Ikametgah Sehri_Manisa
+Ikametgah Sehri_Mardin
+Ikametgah Sehri_Muğla
+Ikametgah Sehri_Nevşehir
+Ikametgah Sehri_Niğde
+Ikametgah Sehri_Ordu
+Ikametgah Sehri_Osmaniye
+Ikametgah Sehri_Rize
+Ikametgah Sehri_Sakarya
+Ikametgah Sehri_Samsun
+Ikametgah Sehri_Siirt
+Ikametgah Sehri_Sinop
+Ikametgah Sehri_Sivas
+Ikametgah Sehri_Tekirdağ
+Ikametgah Sehri_Tokat
+Ikametgah Sehri_Trabzon
+Ikametgah Sehri_Tunceli
+Ikametgah Sehri_Uşak
+Ikametgah Sehri_Van
+Ikametgah Sehri_Yalova
+Ikametgah Sehri_Yozgat
+Ikametgah Sehri_Zonguldak
+Ikametgah Sehri_diger
+Ikametgah Sehri_Çanakkale
+Ikametgah Sehri_Çankırı
+Ikametgah Sehri_Çorum
+Ikametgah Sehri_İstanbul
+Ikametgah Sehri_İzmir
+Ikametgah Sehri_İçel (Mersin)
+Ikametgah Sehri_Şanlıurfa
+Ikametgah Sehri_Şırnak
+Cinsiyet_diger
+Cinsiyet_erkek
+Cinsiyet_kadın
+Universite Turu_DEVLET
+Universite Turu_DIGER
+Universite Turu_ÖZEL
+Burs Aliyor mu?_EVET
+Burs Aliyor mu?_HAYIR
+binned_burs_yuzde_100
+binned_burs_yuzde_25-49
+binned_burs_yuzde_25altı
+binned_burs_yuzde_50-74
+binned_burs_yuzde_75-99
+Universite Kacinci Sinif_1
+Universite Kacinci Sinif_2
+Universite Kacinci Sinif_3
+Universite Kacinci Sinif_4
+Universite Kacinci Sinif_5
+Universite Kacinci Sinif_6
+Universite Kacinci Sinif_BILINMIYOR
+Universite Kacinci Sinif_HAZIRLIK
+Universite Kacinci Sinif_MEZUN
+Universite Kacinci Sinif_TEZ
+Universite Kacinci Sinif_YUKSEK LISANS
+Universite Not Ortalamasi_2.50 - 3.00
+Universite Not Ortalamasi_2.50 VE ALTI
+Universite Not Ortalamasi_3.00 - 3.50
+Universite Not Ortalamasi_3.50 - 4.00
+Universite Not Ortalamasi_DIGER
+Universite Not Ortalamasi_YOK
+Daha Once Baska Bir Universiteden Mezun Olmus_Evet
+Daha Once Baska Bir Universiteden Mezun Olmus_Hayır
+Baska Bir Kurumdan Burs Aliyor mu?_Evet
+Baska Bir Kurumdan Burs Aliyor mu?_Hayır
+Anne Calisma Durumu_Emekli
+Anne Calisma Durumu_Evet
+Anne Calisma Durumu_Hayır
+Anne Calisma Durumu_bilinmiyor
+Baba Calisma Durumu_Emekli
+Baba Calisma Durumu_Evet
+Baba Calisma Durumu_Hayır
+Baba Calisma Durumu_bilinmiyor
+Baba Sektor_BELIRSIZ
+Baba Sektor_DIGER
+Baba Sektor_KAMU
+Baba Sektor_OZEL SEKTOR
+Anne Sektor_BELIRSIZ
+Anne Sektor_DIGER
+Anne Sektor_KAMU
+Anne Sektor_OZEL SEKTOR
+Girisimcilik Kulupleri Tarzi Bir Kulube Uye misiniz?_Evet
+Girisimcilik Kulupleri Tarzi Bir Kulube Uye misiniz?_Hayır
+Profesyonel Bir Spor Daliyla Mesgul musunuz?_Evet
+Profesyonel Bir Spor Daliyla Mesgul musunuz?_Hayır
+Spor Dalindaki Rolunuz Nedir?_DIGER
+Spor Dalindaki Rolunuz Nedir?_KAPTAN
+Spor Dalindaki Rolunuz Nedir?_OYUNCU
+Spor Dalindaki Rolunuz Nedir?_YOK
+Ingilizce Biliyor musunuz?_Evet
+Ingilizce Biliyor musunuz?_Hayır
+Ingilizce Seviyeniz?_0
+Ingilizce Seviyeniz?_Başlangıç
+Ingilizce Seviyeniz?_Orta
+Ingilizce Seviyeniz?_İleri
