@@ -2,13 +2,13 @@
 
 ## Competition
 - **Platform:** Kaggle
-- **Link:** [Datathon 2024](https://www.kaggle.com/competitions/datathon-2024/overview)
-- **Tür:** Regresyon
+- **Competition Link:** [Datathon 2024](https://www.kaggle.com/competitions/datathon-2024/overview)
+- **Type:** Regression
 
 ## Model and Performance
 
 ### Model
-XGBRegressor ile aşağıdaki hiperparametreler kullanılmıştır:
+XGBRegressor with the following hyperparameters:
 
 ```python
 XGBRegressor(
@@ -27,5 +27,5 @@ XGBRegressor(
 ```
 
 ### Performance
-- **Metric:** RMSE (Root Mean Squared Error)
+- **Evaluation Metric:** RMSE (Root Mean Squared Error)
 - **Score:** 6.73
