@@ -21,8 +21,7 @@ XGBRegressor(
     max_depth=10,
     learning_rate=0.1,
     gamma=0.1,
-    colsample_bytree=0.8,
-    nthread=-1
+    colsample_bytree=0.8
 )
 ```
 
